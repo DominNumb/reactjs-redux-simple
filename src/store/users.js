@@ -6,21 +6,23 @@ const userList = {
       password: 'heslo',
       email: 'dominik.numb@gmail.com',
       thumbnail:
-        'https://upload.wikimedia.org/wikipedia/commons/5/5f/Alberto_conversi_profile_pic.jpg',
+        'https://bestprofilepix.com/wp-content/uploads/2014/08/funny-cartoon-boys-facebook-profile-pictures-1280x720.jpg',
     },
     {
       id: 2,
       username: 'Julaanka',
-      password: 'Julaanka1112222',
+      password: 'juLankaHeslo22221111',
       email: 'julie.semaniv@gmail.com',
-      thumbnail: 'https://wallpaperaccess.com/full/6295120.jpg',
+      thumbnail:
+        'https://1.bp.blogspot.com/-j20RRva6uBs/YR09C5BKy8I/AAAAAAAAMYY/GN_1J_Ig50M3MbF9CXhlbd1HLXaoF0DgACLcBGAsYHQ/s0/8.jpg',
     },
     {
       id: 3,
       username: 'Sebostry',
-      password: 'sheslos',
+      password: 'sheslos22.',
       email: 'sebostry@gmail.com',
-      thumbnail: 'https://wallpaper.dog/large/20533920.jpg',
+      thumbnail:
+        'https://keepthetech.com/wp-content/uploads/2020/12/picture-22.jpg',
     },
   ],
 }

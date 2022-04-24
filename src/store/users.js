@@ -14,7 +14,7 @@ const userList = {
       password: 'juLankaHeslo22221111',
       email: 'julie.semaniv@gmail.com',
       thumbnail:
-        'https://1.bp.blogspot.com/-j20RRva6uBs/YR09C5BKy8I/AAAAAAAAMYY/GN_1J_Ig50M3MbF9CXhlbd1HLXaoF0DgACLcBGAsYHQ/s0/8.jpg',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYe30VK374TdTrLx1Pn6hVhhHBCGSjImy_vv2grcZoRv64yZmlgyAmBqxdSVxoSbDzLY&usqp=CAU',
     },
     {
       id: 3,
@@ -22,7 +22,7 @@ const userList = {
       password: 'sheslos22.',
       email: 'sebostry@gmail.com',
       thumbnail:
-        'https://keepthetech.com/wp-content/uploads/2020/12/picture-22.jpg',
+        'https://i.pinimg.com/564x/63/a6/2d/63a62da7a2ad9a32e7db5f8079a770c9.jpg',
     },
   ],
 }

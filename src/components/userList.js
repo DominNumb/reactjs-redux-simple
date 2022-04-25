@@ -2,14 +2,6 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
 
-const SelectUser = (user) => {
-  console.log(user.username, ' was selected!')
-  return {
-    type: 'USER_SELECTED',
-    data: user,
-  }
-}
-
 class UserList extends Component {
   render() {
     return (
